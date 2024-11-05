@@ -1,0 +1,26 @@
+{
+  "count": 3,
+  "items": [
+    {
+      "AssetId": 2,
+      "FileName": "test2",
+      "MimeType": "type2",
+      "Country": "CN",
+      "Description": "testing2"
+    },
+    {
+      "AssetId": 3,
+      "FileName": "test3",
+      "MimeType": "type3",
+      "Country": "LN",
+      "Description": "testing3"
+    },
+    {
+      "AssetId": 4,
+      "FileName": "test4",
+      "MimeType": "type4",
+      "Country": "CO",
+      "Description": "testing4"
+    }
+  ]
+}

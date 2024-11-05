@@ -1,0 +1,23 @@
+[
+  {
+    "Temperature": 20.5,
+    "pH": 7.1,
+    "Chloride": 15,
+    "Phospate": 3,
+    "Nitrate": 5.2
+  },
+  {
+    "Temperature": 22.3,
+    "pH": 7.0,
+    "Chloride": 12,
+    "Phospate": 2.8,
+    "Nitrate": 5.4
+  },
+  {
+    "Temperature": 21.5,
+    "pH": 6.6,
+    "Chloride": 16,
+    "Phospate": 3.2,
+    "Nitrate": 5.0
+  }
+]
